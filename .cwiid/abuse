@@ -1,0 +1,54 @@
+# Fps config for wminput by kyrlian
+# needs plugins ir_fps and nunchuk_kb
+# available from http://kyrlian.free.fr/binaries/cwiid/latest/
+# wminput source and info at http://abstrakraft.org/cwiid/
+
+include buttons
+
+#Nunchuk.C               = KEY_C
+#Nunchuk.Z               = KEY_SPACE
+
+#plugin for nunchuk stick
+Plugin.nunchuk_stick2btn.Up	= KEY_W
+Plugin.nunchuk_stick2btn.Down	= KEY_S
+Plugin.nunchuk_stick2btn.Left	= KEY_A
+Plugin.nunchuk_stick2btn.Right	= KEY_D
+
+#buttons
+
+#Wiimote.A		= KEY_ESC
+Wiimote.B		= BTN_LEFT
+Wiimote.Up		= KEY_ESC
+#Wiimote.Down	= 
+#Wiimote.Left	= 
+#Wiimote.Right	= 
+#Wiimote.Minus	= KEY_CTL
+#Wiimote.Plus	= BTN_
+#Wiimote.Home	= 
+#Wiimote.1		= 
+#Wiimote.2		= 
+
+Nunchuk.C		= BTN_RIGHT
+Nunchuk.Z		= KEY_DOWN
+
+#Classic.Up		= 
+#Classic.Down	= 
+#Classic.Left	= 
+#Classic.Right	= 
+#Classic.Minus	= 
+#Classic.Plus	= 
+#Classic.Home	= 
+#Classic.A		= 
+#Classic.B		= 
+#Classic.X		= 
+#Classic.Y		= 
+#Classic.ZL		= 
+#Classic.ZR		= 
+#Classic.L		= 
+#Classic.R		= 
+#ir_ptr
+
+include buttons
+
+Plugin.ir_ptr.X	= ABS_X
+Plugin.ir_ptr.Y	= ABS_Y

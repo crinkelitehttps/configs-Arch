@@ -1,0 +1,5 @@
+xterm*eightBitInput:false
+XTerm*selectToClipboard: true
+XTerm*reverseVideo: on
+XTerm*color4: CornflowerBlue
+XTerm*color1: maroon 

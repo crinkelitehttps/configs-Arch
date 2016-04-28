@@ -1,0 +1,37 @@
+#IR pointer 
+
+Plugin.ir_ptr.X = ABS_X
+Plugin.ir_ptr.Y = ABS_Y
+
+#buttons
+
+Wiimote.A               = KEY_1
+Wiimote.B               = KEY_SPACE
+Wiimote.Up              = KEY_LEFT
+Wiimote.Down    = KEY_RIGHT
+Wiimote.Left    = KEY_DOWN
+Wiimote.Right   = KEY_UP
+Wiimote.Minus   = KEY_ESC
+Wiimote.Plus    = KEY_TAB
+Wiimote.Home    = KEY_5
+Wiimote.1               = KEY_LEFTCTRL
+Wiimote.2               = KEY_LEFTALT
+
+#Nunchuk.C              = BTN_LEFT
+#Nunchuk.Z              = BTN_RIGHT
+#
+#Classic.Up             = KEY_UP
+#Classic.Down   = KEY_DOWN
+#Classic.Left   = KEY_LEFT
+#Classic.Right  = KEY_RIGHT
+#Classic.Minus  = KEY_BACK
+#Classic.Plus   = KEY_FORWARD
+#Classic.Home   = KEY_5
+#Classic.A              = BTN_LEFT
+#Classic.B              = BTN_RIGHT
+#Classic.X              = 
+#Classic.Y              = 
+#Classic.ZL             = 
+#Classic.ZR             = 
+#Classic.L              = 
+#Classic.R              =  
